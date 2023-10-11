@@ -31,4 +31,53 @@ body{
     width: 100%;
     height: 100%;
 }
+.mainContent{
+    height: 50%;
+    width: 100%;
     
+    
+
+    
+}
+.backgroundImg{
+    background-image: url("https://images-platform.99static.com//581r8n_1zh7ChyOQu_NppM0nXaY=/0x1389:1389x2778/fit-in/590x590/99designs-contests-attachments/94/94409/attachment_94409090");
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    gap: 200px;
+    background-size: contain;
+    color: white;
+    background-repeat: no-repeat;
+    justify-content: center;
+    margin-top: 0;
+    
+}
+.imgsection{
+    height: 70%;
+    width: 100%;
+    display: flex;
+    
+
+    
+    
+}
+.imgsection img{
+    width: 20%;
+    height: 40%;
+}
+
+.paragraph-1{
+ margin-left: 20px;
+ display: flex;
+ flex-direction: column;
+ gap: 5px;
+ 
+
+ 
+
+    
+}
+
+
